@@ -24,7 +24,7 @@ var data = {
     },
     "venus": 
     {
-        "diameter": 12.104*Math.pow(10, 3),
+        "diameter": 12.104*Math.pow(10, 6),
         "mass": 4.87*Math.pow(10, 24),
         "RotationPeriod": -5832.5*3600,
         "distanceFromSun": 108.2*Math.pow(10, 9),
@@ -49,7 +49,7 @@ var data = {
     },
     "mars": 
     {
-        "diameter": 6792*Math.pow(10, 3),
+        "diameter": 6.792*Math.pow(10, 6),
         "mass": 0.642*Math.pow(10, 24),        
         "RotationPeriod": 24.6*3600,
         "distanceFromSun": 227.9*Math.pow(10, 9),
@@ -71,7 +71,7 @@ var data = {
     },
     "jupiter": 
     {
-        "diameter": 142.984*Math.pow(10, 3),
+        "diameter": 142.984*Math.pow(10, 6),
         "mass": 1898*Math.pow(10, 24),
         "RotationPeriod": 9.9*3600,
         "distanceFromSun": 778.6*Math.pow(10, 9),
@@ -106,7 +106,7 @@ var data = {
     },
     "saturn": 
     {
-        "diameter": 120.536*Math.pow(10, 3),
+        "diameter": 120.536*Math.pow(10, 6),
         "mass": 568*Math.pow(10, 24),
         "RotationPeriod": 10.7*3600,
         "distanceFromSun": 1433.5*Math.pow(10, 9),
@@ -114,7 +114,7 @@ var data = {
     },
     "uranus": 
     {
-        "diameter": 51.118*Math.pow(10, 3),
+        "diameter": 51.118*Math.pow(10, 6),
         "mass": 86.8*Math.pow(10, 24),
         "RotationPeriod": -17.2*3600,
         "distanceFromSun": 2872.5*Math.pow(10, 9),
@@ -122,7 +122,7 @@ var data = {
     },
     "neptune": 
     {
-        "diameter": 49.528*Math.pow(10, 3),
+        "diameter": 49.528*Math.pow(10, 6),
         "mass": 102*Math.pow(10, 24),
         "RotationPeriod": 16.1*3600,
         "distanceFromSun": 4495.1*Math.pow(10, 9),
@@ -130,7 +130,7 @@ var data = {
     },
     "pluto": 
     {
-        "diameter": 2370*Math.pow(10, 3),
+        "diameter": 2.370*Math.pow(10, 6),
         "mass": 0.0146*Math.pow(10, 24),
         "RotationPeriod": -153.3*3600,
         "distanceFromSun": 5906.4*Math.pow(10, 9),
