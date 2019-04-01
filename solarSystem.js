@@ -8,7 +8,7 @@
 var data = {
     "sun": 
     {
-        "diameter": 1391020 * Math.pow(10, 3),
+        "diameter": 1391000 * Math.pow(10, 3),
         "mass": 1988500 * Math.pow(10, 24),
         "RotationPeriod": 24.47*3600*24,
         "distanceFromSun": 0,
