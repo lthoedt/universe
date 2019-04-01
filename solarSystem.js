@@ -56,7 +56,7 @@ var data = {
     },
     "mars": 
     {
-        "diameter": 6.792 * Math.pow(10, 3),
+        "diameter": 6.792 * Math.pow(10, 6),
         "mass": 0.642 * Math.pow(10, 24),        
         "RotationPeriod": 24.6*3600,
         "distanceFromSun": 227.9 * Math.pow(10, 9),
